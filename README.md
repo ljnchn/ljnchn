@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! I'm Ren Ljnchn.</h3>
+<h3 align="center">👋 Hello! I'm Ljnchn.</h3>
 
 <p align="center">
 <a href="https://ljnchn.com">Website</a>&nbsp;•&nbsp;
