@@ -6,7 +6,7 @@
       "message": "Golang",
       "query_params": {
         "style": "FLAT",
-        "logo": "golang",
+        "logo": "goland",
         "logoColor": "#FFFFFF",
         "color": "#FF2D55"
       }
