@@ -15,6 +15,7 @@
     <a href="https://github.com/ljnchn/ljnchn/network/members"><img src="https://img.shields.io/github/forks/ljnchn/ljnchn?style=flat&logo=github&logoColor=white&color=gold"></a>
     <a href="https://github.com/ljnchn/ljnchn/stargazers"><img src="https://img.shields.io/github/stars/ljnchn?affiliations=OWNER&style=flat&logo=github&logoColor=white&color=%2327C2A0"></a>
     <a href="https://github.com/ljnchn/ljnchn/watchers"><img src="https://img.shields.io/github/watchers/ljnchn/ljnchn?style=flat&logo=github&logoColor=white&color=%233A94EB"></a>
+    <a href="https://linux.do"><img src="https://shorturl.at/ggSqS"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ljnchn.ljnchn?left_color=white&right_color=%23A54EE0" alt="visitors"/>
 </p>
 
